@@ -2,6 +2,8 @@
 
 [Markdown Pad](https://github.com/xxin666/markdown_pad) is a light, fast, React powered online Markdown editor.
 
+*Live Demo*: http://markdown-editor.s3-website-us-west-1.amazonaws.com
+
 ## Dynamic Preivew
   - Automatically rendered as you type
   - Type Markdown on the left pane

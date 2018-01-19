@@ -7,7 +7,7 @@
 
 [Markdown Pad](https://github.com/xxin666/markdown_pad) is a light, fast, React powered online Markdown editor.
 
-*Live Demo*: http://markdown-editor.s3-website-us-west-1.amazonaws.com
+*Live Demo*: [Link](http://ec2-34-223-248-56.us-west-2.compute.amazonaws.com:3000)
 
 <h1 align="center">
 	<img src="https://raw.githubusercontent.com/xxin666/markdown_pad/master/src/assets/images/screenshot.png">

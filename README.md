@@ -1,4 +1,10 @@
-# Markdown Pad
+<h1 align="center">
+	<img src="https://raw.githubusercontent.com/xxin666/markdown_pad/master/src/assets/images/logo.png" alt="Markdown Pad" width="200">
+  	<br>
+  	Markdown Pad
+  	<br>
+  	<img src="https://raw.githubusercontent.com/xxin666/markdown_pad/master/src/assets/images/screenshot.png"></a>
+</h1>
 
 [Markdown Pad](https://github.com/xxin666/markdown_pad) is a light, fast, React powered online Markdown editor.
 

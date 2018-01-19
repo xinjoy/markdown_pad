@@ -1,14 +1,17 @@
 <h1 align="center">
-	<img src="https://raw.githubusercontent.com/xxin666/markdown_pad/master/src/assets/images/logo.png" alt="Markdown Pad" width="200">
+	<img src="https://raw.githubusercontent.com/xxin666/markdown_pad/master/src/assets/images/logo.png" alt="Markdown Pad" width="100">
   	<br>
   	Markdown Pad
-  	<br>
-  	<img src="https://raw.githubusercontent.com/xxin666/markdown_pad/master/src/assets/images/screenshot.png"></a>
+  	<br><br>
 </h1>
 
 [Markdown Pad](https://github.com/xxin666/markdown_pad) is a light, fast, React powered online Markdown editor.
 
 *Live Demo*: http://markdown-editor.s3-website-us-west-1.amazonaws.com
+
+<h1 align="center">
+	<img src="https://raw.githubusercontent.com/xxin666/markdown_pad/master/src/assets/images/screenshot.png">
+</h1>
 
 ## Dynamic Preivew
   - Automatically rendered as you type

@@ -1,14 +1,10 @@
 import React, { Component } from 'react';
-import VerticalPane from './containers/VerticalPane/VerticalPane';
-import Toolbar from './components/Toolbar/Toolbar';
+import Layout from './hoc/Layout/Layout';
 
 class App extends Component {
   render() {
     return (
-      <div>
-        <Toolbar />
-        <VerticalPane />
-      </div>
+      <Layout />
     );
   }
 }

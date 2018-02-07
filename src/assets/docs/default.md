@@ -1,17 +1,6 @@
-<h1 align="center">
-	<img src="https://raw.githubusercontent.com/xxin666/markdown_pad/master/src/assets/images/logo.png" alt="Markdown Pad" width="100">
-  	<br>
-  	Markdown Pad
-  	<br><br>
-</h1>
+# Markdown Pad
 
 [Markdown Pad](https://github.com/xxin666/markdown_pad) is a light, fast, React powered online Markdown editor.
-
-*Live Demo*: [Link](http://ec2-34-223-248-56.us-west-2.compute.amazonaws.com:3000)
-
-<h1 align="center">
-	<img src="https://raw.githubusercontent.com/xxin666/markdown_pad/master/src/assets/images/screenshot.png">
-</h1>
 
 ## New Features
   - Create new Markdown
@@ -23,13 +12,13 @@
   - Find Magic in the right
 
 ## Syntax Highlighting
-```js
+\`\`\`js
 var appName = "Markdown Pad";
 
 function sayHello() {
     console.log("Hello from Markdown Pad");
 }
-```
+\`\`\`
 
 ## Tables
 
@@ -44,6 +33,7 @@ Colons can be used to align columns.
 ## Blockquotes
 
 > Blockquotes are very handy in email to emulate reply text.
+
 > This line is part of the same quote.
 
 ## Todos
@@ -51,27 +41,25 @@ Colons can be used to align columns.
  - Import and Export files
 
 ## Development
-```bash
+\`\`\`bash
 $ git clone https://github.com/xxin666/markdown_pad.git
 $ cd markdown_pad
 $ npm install
-```
+\`\`\`
 
 ## Run
-```bash
+\`\`\`bash
 $ npm start
-```
+\`\`\`
 
 ## Build
-```bash
+\`\`\`bash
 $ npm build
-```
+\`\`\`
 
 ## Acknowledgment
-Icon made by [Revicon](https://www.flaticon.com/authors/revicon) from [www.flaticon.com](www.flaticon.com) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
+Icon made by [Revicon](https://www.flaticon.com/authors/revicon) from [www.flaticon.com](www.flaticon.com)
 
 License
 ----
-
 MIT
-

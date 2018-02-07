@@ -5,10 +5,13 @@ import AppLogo from '../../assets/images/logo.png';
 
 const toolbar = (props) => (
     <div className="navbar">
-        <a className="logo">
+        <span className="logo">
             <img src={AppLogo} alt="Markdown Pad" />
-        </a>
-        <a>Markdown Pad</a>
+        </span>
+        <span className="title">Markdown Pad</span>
+        <span className="menu" onClick={props.inputClearHandler}>New</span>
+        <span className="menu" onClick={props.inputDownloadMDHandler}>Export as Markdown</span>
+        <span className="menu" onClick={props.inputDownloadHTMLHandler}>Export as HTML</span>
     </div>
 );
 

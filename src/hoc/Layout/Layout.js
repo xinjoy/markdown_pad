@@ -23,6 +23,12 @@ class Layout extends Component {
         axios.get('http://localhost:9000/initial')
             .then(response => {
                 this.setState({ markdownInput: response.data.replace(/\\/g, '')});
+            })
+            .catch(error => {
+                axios.get('http://localhost:3000/static/media/default.2fbc3786.md')
+                    .then(res => {
+                        this.setState({ markdownInput: res.data.replace(/\\/g, '')});
+                    })
             });
     }
 

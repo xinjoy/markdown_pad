@@ -1,16 +1,16 @@
 <h1 align="center">
-	<img src="https://raw.githubusercontent.com/xxin666/markdown_pad/master/src/assets/images/logo.png" alt="Markdown Pad" width="100">
+	<img src="https://raw.githubusercontent.com/xinjoy/markdown_pad/master/src/assets/images/logo.png" alt="Markdown Pad" width="100">
   	<br>
   	Markdown Pad
   	<br><br>
 </h1>
 
-[Markdown Pad](https://github.com/xxin666/markdown_pad) is a light, fast, React powered online Markdown editor.
+[Markdown Pad](https://github.com/xinjoy/markdown_pad) is a light, fast, React powered online Markdown editor.
 
 *Live Demo*: [Link](http://ec2-34-223-248-56.us-west-2.compute.amazonaws.com:3000)
 
 <h1 align="center">
-	<img src="https://raw.githubusercontent.com/xxin666/markdown_pad/master/src/assets/images/screenshot.png">
+	<img src="https://raw.githubusercontent.com/xinjoy/markdown_pad/master/src/assets/images/screenshot.png">
 </h1>
 
 ## New Features
@@ -52,7 +52,7 @@ Colons can be used to align columns.
 
 ## Development
 ```bash
-$ git clone https://github.com/xxin666/markdown_pad.git
+$ git clone https://github.com/xinjoy/markdown_pad.git
 $ cd markdown_pad
 $ npm install
 ```

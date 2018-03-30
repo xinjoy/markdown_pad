@@ -1,6 +1,6 @@
 # Markdown Pad
 
-[Markdown Pad](https://github.com/xxin666/markdown_pad) is a light, fast, React powered online Markdown editor.
+[Markdown Pad](https://github.com/xinjoy/markdown_pad) is a light, fast, React powered online Markdown editor.
 
 ## New Features
   - Create new Markdown
@@ -42,7 +42,7 @@ Colons can be used to align columns.
 
 ## Development
 \`\`\`bash
-$ git clone https://github.com/xxin666/markdown_pad.git
+$ git clone https://github.com/xinjoy/markdown_pad.git
 $ cd markdown_pad
 $ npm install
 \`\`\`
